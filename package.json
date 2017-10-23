@@ -1,12 +1,12 @@
 {
-  "name": "cursosass",
+  "name": "sass-gulp",
   "version": "1.0.0",
-  "description": "archivo para curso de UDEMY",
+  "description": "archivos curso sass",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Juan Pablo De la torre Valdez",
+  "author": "eliteDev",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "*",

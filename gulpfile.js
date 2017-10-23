@@ -7,8 +7,7 @@ var autoprefixer = require('gulp-autoprefixer');
 
 gulp.task('sass', function() {
   gulp.src('scss/app.scss')
-    .pipe(autoprefixer()
-    )
+    .pipe(autoprefixer())
     .pipe(sass({
       includePaths: ['scss']
     }))
