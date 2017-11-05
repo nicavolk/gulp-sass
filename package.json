@@ -1,0 +1,18 @@
+{
+  "name": "cursosass-eliteDevTech",
+  "version": "1.0.0",
+  "description": "archivo para curso de UDEMY para eliteDevTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eliteDevTech",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cli": "^1.4.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
